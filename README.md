@@ -1,1 +1,1 @@
-# project
+SPMF(Sequential Pattern Mining Framework)
